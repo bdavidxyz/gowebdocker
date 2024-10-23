@@ -41,3 +41,7 @@ Stop the container with
 ```shell
 docker container stop gowebdockercontainer
 ```
+
+## Summary
+
+Nothing really fancy, but I like to go back to basics to see how things are working.
