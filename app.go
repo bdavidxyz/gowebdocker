@@ -7,7 +7,7 @@ import (
 )
 
 // Port we listen on.
-const portNum string = ":8080"
+const portNum string = ":80"
 
 // Handler functions.
 func Home(w http.ResponseWriter, r *http.Request) {
